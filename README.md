@@ -22,7 +22,7 @@
 * 🔐 Cybersecurity
 * 🤖 Artificial Intelligence
 * ⚡ Scalable Backend Systems
-* ☁️ Cloud Technologies
+  
 
 ---
 
