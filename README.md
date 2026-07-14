@@ -34,7 +34,6 @@ const ShanmukhaRani = {
     learn: "continuous",
     focus: [
         "Full Stack Development",
-        "Cybersecurity",
         "Artificial Intelligence"
     ],
 
@@ -55,7 +54,7 @@ const ShanmukhaRani = {
 
 * 🚀 Build impactful real-world applications
 * 🧠 Strong problem-solving and analytical skills
-* 🔐 Blend of Cybersecurity + Full Stack Development
+* 🔐 Full Stack Development
 * 🤖 Passion for AI-driven solutions
 * ⚡ Continuous learner and hackathon enthusiast
 
